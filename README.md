@@ -56,3 +56,8 @@ Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Validation | 
 ### Dashboard Preview
 
 ![Retail Sales Analysis Dashboard](Retail%20Sales%20Analysis%20Dashboard.png)
+
+## Project Files
+
+- [Excel Dashboard](Retail%20Sales%20Analysis%20Dashboard.xlsx)
+- [Dashboard Preview](Retail%20Sales%20Analysis%20Dashboard.png)
