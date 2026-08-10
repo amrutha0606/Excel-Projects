@@ -52,3 +52,7 @@ An interactive Excel dashboard built to analyze retail sales performance across 
 ### Tools & Skills
 
 Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Validation | Dashboard Development | Data Visualization
+
+### Dashboard Preview
+
+![Retail Sales Analysis Dashboard](Retail%20Sales%20Analysis%20Dashboard.png)
