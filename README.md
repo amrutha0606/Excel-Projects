@@ -109,3 +109,51 @@ Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Validation | 
 
 - [Excel Dashboard](Employee%20HR%20Analytics%20Project.xlsx)
 - [Dashboard Preview](Employee%20HR%20Analytics%20Dashboard.png)
+
+
+
+## Project 3: Customer Churn & Subscription Analysis
+
+### Overview
+
+An interactive Microsoft Excel dashboard analyzing customer churn, subscription plans, contract types, payment methods, customer tenure, and satisfaction.
+
+### Key Metrics
+
+- Total Customers: 1,000
+- Customers Churned: 240
+- Churn Rate: 24.00%
+- Average Monthly Charges: $64.90
+- Average Satisfaction: 3.01
+
+### Analysis & Visualizations
+
+- Customer Count by Subscription Plan
+- Churn by Subscription Plan
+- Churn by Contract Type
+- Churn by Region
+- Average Tenure by Churn Status
+- Churn by Payment Method
+- Average Satisfaction by Subscription Plan
+- KPI Dashboard
+- Customer Churn Business Insights
+
+### Key Customer Churn Insights
+
+- Monthly-contract customers show the highest churn compared with longer-term contracts.
+- Customers who churn have a slightly higher average tenure than customers who stay.
+- Premium customers have the highest average satisfaction, while Standard customers have the lowest.
+- Bank Transfer customers have the highest number of churned customers among the payment methods analyzed.
+
+### Tools & Skills
+
+Microsoft Excel | Data Cleaning | Excel Tables | COUNTIF | COUNTIFS | AVERAGEIF | COUNTA | PivotTables | PivotCharts | Dashboard Development | Data Visualization | Customer Analytics
+
+### Dashboard Preview
+
+![Customer Churn & Subscription Analysis](Customer%20Churn%20%26%20Subscription%20Analysis.png)
+
+### Project Files
+
+- [Excel Dashboard](Customer%20Churn%20%26%20Subscription%20Analysis.xlsx)
+- [Dashboard Preview](Customer%20Churn%20%26%20Subscription%20Analysis.png)
