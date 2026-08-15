@@ -61,3 +61,51 @@ Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Validation | 
 
 - [Excel Dashboard](Retail%20Sales%20Analysis%20Dashboard.xlsx)
 - [Dashboard Preview](Retail%20Sales%20Analysis%20Dashboard.png)
+
+
+
+## Project 2: Employee HR Analytics Dashboard
+
+### Overview
+
+An interactive Excel dashboard built to analyze employee workforce data, salary trends, employee attrition, job satisfaction, education levels, and overtime patterns.
+
+### Key Metrics
+
+- Total Employees: 1,000
+- Employees Left: 181
+- Attrition Rate: 18.10%
+- Average Salary: $85,316
+- Average Job Satisfaction: 2.91
+
+### Analysis & Visualizations
+
+- Employee Count by Department
+- Average Salary by Department
+- Attrition by Department
+- Average Salary by Job Level
+- Attrition by Overtime
+- Employee Count by Education
+- Average Job Satisfaction by Department
+- KPI Dashboard
+- HR Business Insights
+
+### Key HR Insights
+
+- IT has the highest average job satisfaction at 3.08.
+- Finance has the highest departmental attrition rate at 22.73%.
+- Lead-level employees have the highest average salary at approximately $124,735.
+- Employees working overtime have a slightly higher attrition rate than employees not working overtime.
+
+### Tools & Skills
+
+Microsoft Excel | PivotTables | PivotCharts | Data Cleaning | Data Validation | Dashboard Development | Data Visualization | HR Analytics
+
+### Dashboard Preview
+
+![Employee HR Analytics Dashboard](Employee%20HR%20Analytics%20Dashboard.png)
+
+### Project Files
+
+- [Excel Dashboard](Employee%20HR%20Analytics%20Project.xlsx)
+- [Dashboard Preview](Employee%20HR%20Analytics%20Dashboard.png)
